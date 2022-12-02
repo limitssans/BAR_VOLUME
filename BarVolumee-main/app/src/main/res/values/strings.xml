@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BarVolumee</string>
+    <string name="Width">Lebar</String>
+    <string name="tinggi">Tinggi</string>
+    <string name="Hasil">Hasil</string>
+    <String name="Heigh">Tinggi</String>
+    <String name="Calculate">Hitung</String>
+    <String name="Result">Hasil</String>
+    <String name="Length">Panjang</String>
+</resources>
