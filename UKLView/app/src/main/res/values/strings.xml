@@ -1,3 +1,52 @@
 <resources>
     <string name="app_name">UKLView</string>
+    <string name="content_text">Kebetulan dikulkas ada brokoli tapi bingung mau buat apa. Jangan Lupa Follow @fzxc_zone</string>
+    <string name="_brocri">Brokoli Crispy</string>
+    <string name="febri">Febriano</string>
+    <string name="waktu">10-15 Menit</string>
+    <string name="bahan">Bahan - Bahan</string>
+    <string name="bahan2">
+    1 buah brokoli
+
+    4 sdm tepung bumbu
+
+    2 sdm tepung terigu
+
+    2 sdm tepung maizena
+
+    Secukupnya air es
+
+    3 cube es batu</string>
+    <string name="langkah"> Cara Membuat</string>
+    <string name="l1"> Langkah 1</string>
+    <string name="l2"> Langkah 2</string>
+    <string name="l3"> Langkah 3</string>
+    <string name="l4"> Langkah 4</string>
+
+    <string name="langkah1">Potong2 brokoli dan kembang kol perkuntum, cuci bersih. Campur bahan pelapis kecuali es batu. Beri secukupnya air. Adonan agak kental.</string>
+    <string name="langkah2">Simpan bahan pelapis 15 mnt difrezer. Keluarkan, tambahkan es batu</string>
+    <string name="langkah3">Celupkan sayur2an. Panaskan minyak, goreng smp kecoklatan. Angkat, Tiriskan</string>
+    <string name="langkah4">Sajikan dengan saus sambal</string>
+    <string name="space">
+
+
+
+
+
+
+
+    </string>
+    <string name="space1">
+
+
+
+
+
+
+
+
+
+
+
+    </string>
 </resources>

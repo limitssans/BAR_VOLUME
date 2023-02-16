@@ -13,6 +13,7 @@ class MainActivity : AppCompatActivity(), View.OnClickListener {
     private lateinit var password: EditText
     private lateinit var btnLogin: Button
 
+
     private val key_Email = "MM"
     private val key_password = "EE"
 
@@ -21,11 +22,12 @@ class MainActivity : AppCompatActivity(), View.OnClickListener {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        val email = findViewById<View>(R.id.username)
-        val password = findViewById<View>(R.id.password)
+        email = findViewById(R.id.username)
+        password = findViewById(R.id.password)
 
-        val btnLogin: Button = findViewById(R.id.textView)
+        val btnLogin: Button = findViewById(R.id.btnLogin)
         btnLogin.setOnClickListener(this)
+
     }
 
     override fun onClick(v: View){
